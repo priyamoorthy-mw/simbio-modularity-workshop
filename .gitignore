@@ -1,0 +1,11 @@
+.DS_Store
+*.asv
+*.autosave
+slprj/
+.claude/settings.local.json
+*.bak
+# Work you save in dev while following the guide
+dev/TumorModel.sbproj
+dev/TumorModel_workshop.sbproj
+dev/AgPosTumor*.sbproj
+dev/ADCBystander*.sbproj
